@@ -1,3 +1,0 @@
-clear
-sudo -i
-exit
